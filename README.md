@@ -41,7 +41,8 @@ pnpm run serve
 pnpm run build
 ```
 
+## 图文教程
 
-详细教程请参阅：https://yiov.top/website/Portofolio/
+请参阅：https://yiov.top/website/Portofolio/
 
 

@@ -61,7 +61,7 @@ export default {
                                 <div class="flex h-12 w-12 items-center justify-center p-0 h-full w-full lg:p-0 zoom-in">
                                     <img alt="HTML" loading="lazy" decoding="async" data-nimg="1"
                                         class="drop-shadow-xl rounded rounded-xl"
-                                        :src="'/img/portfolio-' + item.imageUrl + '.png'">
+                                        :src="'/zy-portofolio/img/portfolio-' + item.imageUrl + '.png'">
                                 </div>
                                 <div class="w-full flex flex-col gap-2 items-center text-sm md:text-base lg:text-lg">
                                     <div class="title-text font-medium text-secondary">{{ item.name }}

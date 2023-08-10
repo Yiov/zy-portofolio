@@ -19,49 +19,49 @@ export default {
                 {
                     id: 21,
                     name: 'SASS',
-                    imageUrl: 'http://www.zhouyi.run/assets/maliao-8bcf1e95.webp',
+                    imageUrl: 'https://cdn-icons-png.flaticon.com/512/919/919831.png',
                     status: '了解'
                 },
                 {
                     id: 91,
                     name: 'LESS',
-                    imageUrl: 'http://www.zhouyi.run/assets/maliao-8bcf1e95.webp',
+                    imageUrl: 'http://lesscss.cn/public/img/less_logo.png',
                     status: '了解'
                 },
                 {
                     id: 91,
                     name: 'uni-app',
-                    imageUrl: 'http://www.zhouyi.run/assets/maliao-8bcf1e95.webp',
+                    imageUrl: 'https://qiniu-web-assets.dcloud.net.cn/unidoc/zh/icon.png',
                     status: '了解'
                 },
                 {
                     id: 91,
                     name: 'Canvas',
-                    imageUrl: 'http://www.zhouyi.run/assets/maliao-8bcf1e95.webp',
+                    imageUrl: 'https://cdn-icons-png.flaticon.com/512/9166/9166568.png',
                     status: '了解'
                 },
                 {
                     id: 91,
                     name: 'Vite',
-                    imageUrl: 'http://www.zhouyi.run/assets/maliao-8bcf1e95.webp',
+                    imageUrl: 'https://vitejs.cn/logo.svg',
                     status: '了解'
                 },
                 {
                     id: 91,
                     name: 'Hexo',
-                    imageUrl: 'http://www.zhouyi.run/assets/maliao-8bcf1e95.webp',
+                    imageUrl: 'https://hexo.io/icon/favicon-196x196.png',
                     status: '了解'
                 },
                 {
                     id: 4,
                     name: 'Javascript',
-                    imageUrl: 'https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png',
+                    imageUrl: 'https://cdn-icons-png.flaticon.com/512/5968/5968292.png',
                     status: '了解'
                 },
                 {
                     id: 91,
                     name: 'TypeScript.js',
-                    imageUrl: 'http://www.zhouyi.run/assets/maliao-8bcf1e95.webp',
+                    imageUrl: 'https://cdn-icons-png.flaticon.com/512/5968/5968381.png',
                     status: '了解'
                 },
                 {
@@ -79,7 +79,7 @@ export default {
                 {
                     id: 91,
                     name: 'Express.js',
-                    imageUrl: 'http://www.zhouyi.run/assets/maliao-8bcf1e95.webp',
+                    imageUrl: 'https://cdn-icons-png.flaticon.com/512/9166/9166568.png',
                     status: '了解'
                 },
                 {
@@ -97,23 +97,23 @@ export default {
                 {
                     id: 31,
                     name: 'Java',
-                    imageUrl: 'http://www.zhouyi.run/assets/maliao-8bcf1e95.webp',
+                    imageUrl: 'https://cdn-icons-png.flaticon.com/512/5968/5968282.png',
                     status: '了解'
                 }, {
                     id: 31,
                     name: 'Sequlize',
-                    imageUrl: 'http://www.zhouyi.run/assets/maliao-8bcf1e95.webp',
+                    imageUrl: 'https://www.sequelize.cn/assets/images/logo-small-844fb9182c0fbf41931de2246fa9c496.png',
                     status: '了解'
                 }, {
                     id: 31,
                     name: 'linux',
-                    imageUrl: 'http://www.zhouyi.run/assets/maliao-8bcf1e95.webp',
+                    imageUrl: 'https://cdn-icons-png.flaticon.com/512/6124/6124995.png',
                     status: '了解'
                 },
                 {
                     id: 31,
                     name: '其他前端生态圈',
-                    imageUrl: 'http://www.zhouyi.run/assets/maliao-8bcf1e95.webp',
+                    imageUrl: 'https://cdn-icons-png.flaticon.com/512/9166/9166568.png',
                     status: '了解'
                 },
             ],
@@ -145,19 +145,19 @@ export default {
                 {
                     id: 5,
                     name: 'MongoDB',
-                    imageUrl: 'http://www.zhouyi.run/assets/maliao-8bcf1e95.webp',
+                    imageUrl: 'https://www.mongodb.com/assets/images/global/favicon.ico',
                     status: 'Database'
                 },
                 {
                     id: 5,
                     name: '码云GITEE',
-                    imageUrl: 'http://www.zhouyi.run/assets/maliao-8bcf1e95.webp',
+                    imageUrl: 'https://gitee.com/favicon.ico',
                     status: 'Git Hosting'
                 },
                 {
                     id: 5,
                     name: '其他...',
-                    imageUrl: 'http://www.zhouyi.run/assets/maliao-8bcf1e95.webp',
+                    imageUrl: 'https://cdn-icons-png.flaticon.com/512/9166/9166568.png',
                     status: '...'
                 },
             ]
